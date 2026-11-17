@@ -1,0 +1,21 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "geminicost",
+  "version": "1.0.0",
+  "description": "Gemini 4 agent-run cost simulator: true per-turn totals vs naive estimates, and list prices by date.",
+  "author": {
+    "name": "Craftstead",
+    "url": "https://craftstead.app"
+  },
+  "homepage": "https://geminicost.craftstead.app/mcp-server/",
+  "repository": "https://github.com/gowinder/geminicost-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "gemini",
+    "llm-cost",
+    "token-cost",
+    "agent-cost",
+    "pricing"
+  ]
+}

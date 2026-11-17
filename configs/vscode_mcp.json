@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "geminicost": {
+      "type": "http",
+      "url": "https://geminicost.craftstead.app/mcp"
+    }
+  }
+}

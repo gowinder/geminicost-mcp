@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.gowinder/geminicost",
+  "title": "Gemini Cost Simulator",
+  "description": "Gemini 4 agent-run cost simulator over MCP: true per-turn totals vs naive estimates.",
+  "version": "1.0.0",
+  "websiteUrl": "https://geminicost.craftstead.app",
+  "repository": {
+    "url": "https://github.com/gowinder/geminicost-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://geminicost.craftstead.app/mcp"
+    }
+  ]
+}
